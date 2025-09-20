@@ -14,10 +14,17 @@ h1 {
 
 h2 {
   font-family: 'Poppins', sans-serif;
-  color: rgb(0, 255, 200);
+  color: rgb(87, 101, 255);
   font-size: 26px;
   text-align: left;
   padding-left: 75px;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: rgb(87, 101, 255);
+  font-size: 26px;
+  text-align: Center;
 }
 
 p {
